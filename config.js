@@ -3,40 +3,40 @@
 //Dalam file _menunya.js
 
 //『 Utama 』 //
-global.owner = ['6288233832771']  // isi jika perlu
-global.mods = ['6288233832771']   // isi jika perlu
-global.prems = ['6288233832771']  // isi jika perlu
+global.owner = ['6285838142263']  // isi jika perlu
+global.mods = ['6285838142263']   // isi jika perlu
+global.prems = ['6285838142263']  // isi jika perlu
 
 //Isi dengan nama dan nomor lu//
-global.nameowner = 'Mursid S' // isi nama kalian bebas
-global.numberowner = '6288233832771' // isi nomor kalian dengan awalan seperti di contoh 
-global.dana = '6288233832771' // isi dengan nomor dana yg kamu punya 
-global.pulsa = '6289674452300' // isi dengan nomor pulsa hp kalian
-global.gopay = '6288233832771'
+global.nameowner = 'Muklis' // isi nama kalian bebas
+global.numberowner = '6285838142263' // isi nomor kalian dengan awalan seperti di contoh 
+global.dana = '6285896661014' // isi dengan nomor dana yg kamu punya 
+global.pulsa = '6285838571629' // isi dengan nomor pulsa hp kalian
+global.gopay = '6285838571629'
 
 //Name Bot & Grouplink//
-global.namebot = 'мυʀѕι∂ вσт-χмℓ'
+global.namebot = 'BOTCAHX'
 global.gc = 'https://chat.whatsapp.com/FhSBFvhtzfN5hIVe1GXAfj'
 global.web = 'https://instagram.com/mursid.st' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 
 //Tanpilan wm Bot //
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = 'мυʀѕι∂ вσт-χмℓ'
+global.wm = 'MUKLIS'
 global.watermark = wm
-global.wm2 = 'мυʀѕι∂ вσт-χмℓ'
-global.wm3 = 'мυʀѕι∂ вσт-χмℓ'
+global.wm2 = 'MUKLIS'
+global.wm3 = 'MUKLIS'
 global.wm4 = '2022'
 global.htki = '––––––「' 
 global.htka = '」––––––'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&fillColor1Color=%23f2aa4c&fillColor2Color=%23f2aa4c&fillColor3Color=%23f2aa4c&fillColor4Color=%23f2aa4c&fillColor5Color=%23f2aa4c&fillColor6Color=%23f2aa4c&fillColor7Color=%23f2aa4c&fillColor8Color=%23f2aa4c&fillColor9Color=%23f2aa4c&fillColor10Color=%23f2aa4c&fillOutlineColor=%23f2aa4c&fillOutline2Color=%23f2aa4c&backgroundColor=%23101820&text='
-global.wait = 'тυɴggυ ѕє∂αɴg ∂ι ρʀσѕєѕ...'
-global.eror = 'ѕєʀνєʀ ѕє∂αɴg єʀʀσʀ'
-global.benar = 'вєɴαʀ'
-global.salah = 'ѕαℓαн'
+global.wait = 'Tunggu sedang di proses...'
+global.eror = 'Server Sedang Elor'
+global.benar = 'Benar'
+global.salah = 'Salah'
 global.stiker_wait = 'Loading...'
 global.packname = 'sᴛɪᴄᴋᴇʀ ʙʏ'
-global.author = 'мυʀѕι∂ вσт-χмℓ'
+global.author = 'Muklis'
 
 //Apikey Setting//
 global.APIs = { // API Prefix
