@@ -3,16 +3,16 @@ let handler = async (m, {conn}) => {
 const vcard = `BEGIN:VCARD
 VERSION:3.0
 N:Sy;Bot;;;
-FN: Mursid S
+FN: Muklis
 item.ORG: ᴏᴡɴᴇʀ ʙᴏᴛ
-item1.TEL;waid=6288233832771:6288233832771@s.whatsapp.net
-item1.X-ABLabel:ᴅᴇᴠᴇʟᴏᴘᴇʀ мυʀѕι∂ вσт-χмℓ
+item1.TEL;waid=6285838142263:6285838142263@s.whatsapp.net
+item1.X-ABLabel:ᴅᴇᴠᴇʟᴏᴘᴇʀ Muklis
 item2.EMAIL;type=INTERNET:ʜᴀɴʏᴀ ᴅᴇᴠᴇʟᴏᴘᴇʀ ʙᴏᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ʙɪᴀꜱᴀ ᴋᴀᴋ
 item2.X-ABLabel:Email
 item3.ADR:;Yogykarta;
 item3.X-ABADR:Yogykarta
 item3.X-ABLabel:Lokasi
-item4.EMAIL;type=INTERNET:mursidxml@gmail.com
+item4.EMAIL;type=INTERNET:muklis6763@gmail.com
 item4.X-ABLabel:Email
 item5.URL:${global.web}
 item5.X-ABLabel:Website
