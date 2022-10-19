@@ -17,7 +17,7 @@ global.gopay = '6285838571629'
 //Name Bot & Grouplink//
 global.namebot = 'BOTCAHX'
 global.gc = 'https://chat.whatsapp.com/FhSBFvhtzfN5hIVe1GXAfj'
-global.web = 'https://instagram.com/mursid.st' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://instagram.com/klis_jbff' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 
 //Tanpilan wm Bot //
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
